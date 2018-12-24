@@ -1,0 +1,5 @@
+C:\Users\shah\source\repos\DependcyInjection\DI.Services\bin\Debug\DI.Services.dll
+C:\Users\shah\source\repos\DependcyInjection\DI.Services\bin\Debug\DI.Services.pdb
+C:\Users\shah\source\repos\DependcyInjection\DI.Services\obj\Debug\DI.Services.csproj.CoreCompileInputs.cache
+C:\Users\shah\source\repos\DependcyInjection\DI.Services\obj\Debug\DI.Services.dll
+C:\Users\shah\source\repos\DependcyInjection\DI.Services\obj\Debug\DI.Services.pdb
