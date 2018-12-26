@@ -7,5 +7,4 @@ About this source code:
 3. Have Interface Class
 4. Sample async API with method GET and POST
 
-What is Dependency Injection(DI)
-DI is a software design pattern that allows us to develop loosely coupled code. DI is a great way to reduce tight coupling between software components. DI also enables us to better manage future changes and other complexity in our software. The purpose of DI is to make code maintainable.
+Dependency Injection(DI) is a software design pattern that allows us to develop loosely coupled code. DI is a great way to reduce tight coupling between software components. DI also enables us to better manage future changes and other complexity in our software. The purpose of DI is to make code maintainable.
